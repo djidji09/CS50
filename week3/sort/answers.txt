@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it was the fastest when the array was sorted because it checks one only one time
+
+sort2 uses: merge sort
+
+How do you know?: it was the fastest when the array was random
+
+sort3 uses: selection sort
+
+How do you know?: it was the slowest when the array was sorted because it checks all the array even tho it is sorted
